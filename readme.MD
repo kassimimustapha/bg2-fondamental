@@ -2,7 +2,7 @@ cour fondamentale de Angular 2
 ========================
 Ceci est le paquet de démarrage pour de cours  sur les fondementaux angulaire 2 trouvé ici: 
 
-
+https://github.com/kassimimustapha/bg2-fondamental-app.git
 
 
 
